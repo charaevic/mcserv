@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "298eb3e6-aced-47b2-9c41-169716fd606c",
+    "name": "GUDBREAD",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "acfdac3d-1186-36b9-b59f-6720eb09e9a1",
+    "name": "GUDBREAD",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "81b94ed4-1bcf-3123-a404-0aa3c9b4f9d8",
+    "name": "Fixies",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
